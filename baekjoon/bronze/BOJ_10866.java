@@ -59,10 +59,7 @@ public class BOJ_10866 {
     }
 
     public void push_back(int x) {
-        if (deque.isEmpty())
-            deque.add(0, x);
-        else
-            deque.add(deque.size()-1, x);
+        deque.add(x);
     }
 
     public void pop_front() {
