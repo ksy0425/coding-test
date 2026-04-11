@@ -8,14 +8,22 @@
  * 출력
  * 주어진 수들 중 소수의 개수를 출력한다.
  *
- * 메모리 KB
- * 시간 ms
+ * 메모리 14148KB
+ * 시간 104ms
  */
 
 import java.io.*;
-import java.util.StringTokenizer;
 
 public class BOJ_1978 {
+
+    private BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    private int testNum;
+    private String[] num;
+
+    public void input() throws IOException {
+        testNum = Integer.parseInt(br.readLine());
+        num = br.readLine().split(" ");
+    }
 
     public boolean isPrime(int num) {
         if (num == 1) return false;
@@ -26,16 +34,11 @@ public class BOJ_1978 {
         return true;
     }
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        int N = Integer.parseInt(br.readLine());
-        String[] input = br.readLine().split(" ");
-
+    public void find() {
         int count = 0;
 
-        for (int i = 0; i < N; i++) {
-            int num = Integer.parseInt(input[i]);
+        for (int i = 0; i < testNum; i++) {
+            int num = Integer.parseInt(this.num[i]);
 
             if (isPrime(num)) {
                 count++;
@@ -43,5 +46,11 @@ public class BOJ_1978 {
         }
 
         System.out.println(count);
+    }
+
+    public static void main(String[] args) throws IOException {
+        BOJ_1978 boj1978 = new BOJ_1978();
+        boj1978.input();
+        boj1978.find();
     }
 }
