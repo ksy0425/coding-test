@@ -10,8 +10,9 @@
  * 출력
  * 첫째 줄부터 T개의 줄에 A와 B의 최소공배수를 입력받은 순서대로 한 줄에 하나씩 출력한다.
  *
- * 메모리 KB
- * 시간 ms
+ * 첫 채점 결과 -> 시간 초과 발생 (불필요한 배열 생성 및 반복문)
+ * 메모리 15220KB
+ * 시간 152ms
  */
 
 import java.io.*;
@@ -36,29 +37,21 @@ public class BOJ_1934 {
         }
     }
 
+    // 최소공배수 계산
     public void lcm() {
-        int result = 0;
-        if (num[0]==1 || num[1]==1) {
-            result = num[0]*num[1];
-        }
-        else {
-            int[] numList = new int[num[1]]; //numList인데스 0~9
-            for (int i=1;i<=num[1];i++) {
-                numList[i-1] = num[0]*i; // 넘리[0] = 6x1, 넘리[9] = 6x10, 넘리[4]=30
-            }
-            for (int i=1;i<=num[0];i++) {
-                for (int k=0;k<numList.length;k++) {
-                    if (num[1]*i == numList[k]) {
-                        result = numList[k];
-                        break;
-                    }
-                }
-                if (result != 0)
-                    break;
-                 //넘리[0] == 10x1, 넘리[5] == 10x6, 넘리[4]==10x5
-            }
-        }
+        int gcd = getGCD(num[0], num[1]);
+        int result = num[0] * num[1] / gcd;
         System.out.println(result);
+    }
+
+    // 최대공약수 계산 (유클리드 호제법)
+    private int getGCD(int a, int b) {
+        while (b != 0) {
+            int temp = a % b;
+            a = b;
+            b = temp;
+        }
+        return a;
     }
 
     public static void main(String[] args) throws IOException {
