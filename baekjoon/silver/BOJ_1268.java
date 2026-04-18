@@ -16,6 +16,9 @@
  *
  * 출력
  * 첫 줄에 임시 반장으로 정해진 학생의 번호를 출력한다. 단, 임시 반장이 될 수 있는 학생이 여러 명인 경우에는 그 중 가장 작은 번호만 출력한다.
+ *
+ * 메모리 15504KB
+ * 시간 144ms
  */
 
 import java.io.*;
@@ -32,73 +35,61 @@ public class BOJ_1268 {
         studentCount = Integer.parseInt(br.readLine());
         student = new int[studentCount][5];
         count = new int[studentCount];
-    }
 
-    public void inputClass() throws IOException {
-        String param;
-        for (int i=0;i<studentCount; i++) {
-            param = br.readLine();
-            setStudentClass(i, param);
+        for (int i = 0; i < studentCount; i++) {
+            setStudentClass(i, br.readLine());
         }
     }
 
-    public void setStudentClass(int i, String param) {
-        String[] studentClass = param.split(" ");
-        for (int k=0;k<5;k++) {
-            student[i][k] = Integer.parseInt(studentClass[k]);
+    public void setStudentClass(int index, String param) {
+        String[] arr = param.split(" ");
+
+        for (int i = 0; i < 5; i++) {
+            student[index][i] = Integer.parseInt(arr[i]);
         }
     }
 
-    public void getClassDuplicate() {
-        int[] classCount = new int[10]; // 0~9반
-        for (int grade=0;grade<5;grade++) {
-            for (int i=0;i<studentCount;i++) {
-                classCount[student[i][grade]]++; // 모든 학생들 1학년때 몇반인지, 가장 겹치는 반 표시
+    public boolean isSameClass(int studentA, int studentB) {
+        for (int grade = 0; grade < 5; grade++) {
+            if (student[studentA][grade] == student[studentB][grade]) {
+                return true;
             }
-            int maxClass = classCount[1];
-            for (int i=2;i<10;i++) { // 여기서 max에 가장 많이 겹친 반 나옴
-                if (maxClass<classCount[i])
-                    maxClass = classCount[i];
-            }
-            getCountDuplicate(grade, maxClass);
         }
+        return false;
     }
 
-    public void getCountDuplicate(int grade, int maxClass) {
-        for (int i=0;i<studentCount; i++) {
-            if (maxClass == student[i][grade]) {
-                count[i]++;
+    public void countSameClassStudent() {
+        for (int i = 0; i < studentCount; i++) {
+            for (int j = 0; j < studentCount; j++) {
+
+                if (i == j) continue;
+
+                if (isSameClass(i, j)) {
+                    count[i]++;
+                }
             }
         }
     }
 
-    public void getClassPresident() {
+    public void printClassPresident() {
         int max = count[0];
         int studentNum = 0;
-        for (int i=1;i<studentCount;i++) {
-            if (max < count[i]) {
+
+        for (int i = 1; i < studentCount; i++) {
+            if (count[i] > max) {
                 max = count[i];
                 studentNum = i;
             }
         }
-        System.out.println(studentNum);
-    }
 
-    public void print() {
-        System.out.println(studentCount);
-        for (int i=0;i<studentCount;i++) {
-            for (int k=0;k<5;k++) {
-                System.out.print(student[i][k] + " ");
-            }
-            System.out.println();
-        }
+        System.out.println(studentNum+1);
     }
 
     public static void main(String[] args) throws IOException {
         BOJ_1268 boj1268 = new BOJ_1268();
         boj1268.input();
-        boj1268.inputClass();
-        boj1268.getClassDuplicate();
-        boj1268.getClassPresident();
+        boj1268.countSameClassStudent();
+
+        boj1268.printClassPresident();
     }
 }
