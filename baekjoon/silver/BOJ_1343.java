@@ -10,8 +10,8 @@
  * 출력
  * 첫째 줄에 사전순으로 가장 앞서는 답을 출력한다. 만약 덮을 수 없으면 -1을 출력한다.
  *
- * 메모리 KB
- * 시간 ms
+ * 메모리 14308KB
+ * 시간 108ms
  */
 
 import java.io.*;
@@ -24,7 +24,7 @@ public class BOJ_1343 {
 
     public void input() throws IOException {
         String text = br.readLine();
-        board = text.split("\\.");
+        board = text.split("\\.", -1);
     }
 
     public void changePolyomino() {
@@ -48,7 +48,8 @@ public class BOJ_1343 {
                     result += "BB";
             } else if (size == 0) {
                 //System.out.print(".");
-                result += ".";
+                if (i != board.length - 1)
+                    result += ".";
             }
             else {
                 System.out.println(-1);
