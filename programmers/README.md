@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 3
+* 총 풀이 문제: 4
 
 ---
 
@@ -13,6 +13,7 @@
 * PRG_120956_Babbling
 * PRG_181832_SpiralMatrix
 * PRG_120875_Parallel
+* PRG_120876_LengthOverlapping
 
 ### 🥈 level2
 
