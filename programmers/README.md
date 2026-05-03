@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 5
+* 총 풀이 문제: 6
 
 ---
 
@@ -15,6 +15,7 @@
 * PRG_120875_Parallel
 * PRG_120876_LengthOverlapping
 * PRG_120802_FractionAdd
+* PRG_181916_DiceGame3
 
 ### 🥈 level2
 
