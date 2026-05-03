@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 4
+* 총 풀이 문제: 5
 
 ---
 
@@ -14,6 +14,7 @@
 * PRG_181832_SpiralMatrix
 * PRG_120875_Parallel
 * PRG_120876_LengthOverlapping
+* PRG_120802_FractionAdd
 
 ### 🥈 level2
 
