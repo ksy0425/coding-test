@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 6
+* 총 풀이 문제: 7
 
 ---
 
@@ -16,6 +16,7 @@
 * PRG_120876_LengthOverlapping
 * PRG_120802_FractionAdd
 * PRG_181916_DiceGame3
+* PRG_340201_Bus
 
 ### 🥈 level2
 
