@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 7
+* 총 풀이 문제: 8
 
 ---
 
@@ -17,6 +17,7 @@
 * PRG_120802_FractionAdd
 * PRG_181916_DiceGame3
 * PRG_340201_Bus
+* PRG_120866_SafeZone
 
 ### 🥈 level2
 
