@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 8
+* 총 풀이 문제: 9
 
 ---
 
@@ -18,6 +18,7 @@
 * PRG_181916_DiceGame3
 * PRG_340201_Bus
 * PRG_120866_SafeZone
+* PRG_340202_WaterShortage
 
 ### 🥈 level2
 
