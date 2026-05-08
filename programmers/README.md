@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 9
+* 총 풀이 문제: 10
 
 ---
 
@@ -19,6 +19,7 @@
 * PRG_340201_Bus
 * PRG_120866_SafeZone
 * PRG_340202_WaterShortage
+* PRG_120923_SumOfNumbers
 
 ### 🥈 level2
 
