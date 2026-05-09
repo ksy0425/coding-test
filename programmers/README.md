@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 10
+* 총 풀이 문제: 11
 
 ---
 
@@ -20,6 +20,7 @@
 * PRG_120866_SafeZone
 * PRG_340202_WaterShortage
 * PRG_120923_SumOfNumbers
+* PRG_250126_Storage
 
 ### 🥈 level2
 
