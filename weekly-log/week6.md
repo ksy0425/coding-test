@@ -1,9 +1,14 @@
 ## Week 6
 
 ### ✔ 한 것
-##### 🥉 1문제
+##### 🥉 7문제
 - PRG_181916_DiceGame3
-- 
+- PRG_340201_Bus
+- PRG_120866_SafeZone
+- PRG_340202_WaterShortage
+- PRG_120923_SumOfNumbers
+- PRG_250126_Storage
+- PRG_120924_NextNumber
 
 ##### 🥈 0문제
 
