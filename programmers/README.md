@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 13
+* 총 풀이 문제: 14
 
 ---
 
@@ -23,6 +23,7 @@
 * PRG_250126_Storage
 * PRG_120924_NextNumber
 * PRG_120812_FindMode
+* PRG_120907_OXQuiz
 
 ### 🥈 level2
 
