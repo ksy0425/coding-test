@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 15
+* 총 풀이 문제: 16
 
 ---
 
@@ -25,6 +25,7 @@
 * PRG_120812_FindMode
 * PRG_120907_OXQuiz
 * PRG_340207_PrintString
+* PRG_340205_DividingNum
 
 ### 🥈 level2
 

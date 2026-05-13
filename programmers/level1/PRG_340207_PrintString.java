@@ -1,7 +1,7 @@
 /*
 Programmers Level 1 [PCCE 기출문제] 1번
 문자 출력
-문자 출력 문제
+빈칸 채우기 문제
  */
 
 import java.util.Scanner;
