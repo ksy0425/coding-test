@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 20
+* 총 풀이 문제: 21
 
 ---
 
@@ -30,6 +30,7 @@
 * PRG_120863_PolynomialAdd
 * PRG_120880_SpecialSort
 * PRG_181932_CodeProcess
+* PRG_250133_Print
 
 ### 🥈 level2
 
