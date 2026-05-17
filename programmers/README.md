@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 21
+* 총 풀이 문제: 22
 
 ---
 
@@ -31,6 +31,7 @@
 * PRG_120880_SpecialSort
 * PRG_181932_CodeProcess
 * PRG_250133_Print
+* PRG_120878_FiniteDecimalCheck
 
 ### 🥈 level2
 
