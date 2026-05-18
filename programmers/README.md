@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 22
+* 총 풀이 문제: 23
 
 ---
 
@@ -32,6 +32,7 @@
 * PRG_181932_CodeProcess
 * PRG_250133_Print
 * PRG_120878_FiniteDecimalCheck
+* PRG_181921_MakeArray2
 
 ### 🥈 level2
 
