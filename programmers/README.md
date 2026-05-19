@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 24
+* 총 풀이 문제: 25
 
 ---
 
@@ -34,6 +34,7 @@
 * PRG_120878_FiniteDecimalCheck
 * PRG_181921_MakeArray2
 * PRG_181893_CarveArray
+* PRG_120921_PushString
 
 ### 🥈 level2
 
