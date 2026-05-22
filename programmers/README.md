@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 29
+* 총 풀이 문제: 30
 
 ---
 
@@ -39,6 +39,7 @@
 * PRG_120882_Ranking
 * PRG_340206_AngleMerge
 * PRG_120884_ChickenCupon
+* PRG_340200_NicknameRule
 
 ### 🥈 level2
 
