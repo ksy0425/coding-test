@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 26
+* 총 풀이 문제: 27
 
 ---
 
@@ -36,6 +36,7 @@
 * PRG_181893_CarveArray
 * PRG_120921_PushString
 * PRG_250128_TentativeScoring
+* PRG_120882_Ranking
 
 ### 🥈 level2
 
