@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 31
+* 총 풀이 문제: 32
 
 ---
 
@@ -41,6 +41,7 @@
 * PRG_120884_ChickenCupon
 * PRG_340200_NicknameRule
 * PRG_340203_CPR
+* PRG_120871_CurseNum
 
 ### 🥈 level2
 
