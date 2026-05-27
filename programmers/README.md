@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 33
+* 총 풀이 문제: 34
 
 ---
 
@@ -47,6 +47,7 @@
 
 * PRG_17682_DartGame
 * PRG_42576_NoGoalPlayer
+* PRG_133502_MakeBugger
 
 ### 🥇 level3
 
