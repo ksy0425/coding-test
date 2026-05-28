@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 34
+* 총 풀이 문제: 35
 
 ---
 
@@ -48,6 +48,7 @@
 * PRG_17682_DartGame
 * PRG_42576_NoGoalPlayer
 * PRG_133502_MakeBugger
+* PRG_42862_GymClothes
 
 ### 🥇 level3
 
