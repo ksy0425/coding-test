@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 37
+* 총 풀이 문제: 38
 
 ---
 
@@ -51,6 +51,7 @@
 * PRG_42862_GymClothes
 * PRG_140108_SplitString
 * PRG_160586_RoughlyKeyborad
+* PRG_77484_LottosCase
 
 ### 🥇 level3
 
