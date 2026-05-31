@@ -1,5 +1,5 @@
 /*
-Programmers Level 2
+Programmers Level 2 (2021 Dev-Matching: 웹 백엔드 개발자(상반기))
 로또의 최고 순위와 최저 순위
 switch case활용 및 조건, 반복문 문제
  */
