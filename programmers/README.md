@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 39
+* 총 풀이 문제: 40
 
 ---
 
@@ -53,6 +53,7 @@
 * PRG_160586_RoughlyKeyborad
 * PRG_77484_LottosCase
 * PRG_155652_OurPassword
+* PRG_250125_NeighboringBlock
 
 ### 🥇 level3
 
