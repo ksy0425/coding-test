@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 42
+* 총 풀이 문제: 43
 
 ---
 
@@ -56,6 +56,7 @@
 * PRG_250125_NeighboringBlock
 * PRG_42889_FailureRate
 * PRG_12921_FindPrimeNum
+* PRG_12977_MakePrimeNum
 
 ### 🥇 level3
 
