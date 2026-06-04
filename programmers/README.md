@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 41
+* 총 풀이 문제: 42
 
 ---
 
@@ -55,6 +55,7 @@
 * PRG_155652_OurPassword
 * PRG_250125_NeighboringBlock
 * PRG_42889_FailureRate
+* PRG_12921_FindPrimeNum
 
 ### 🥇 level3
 
