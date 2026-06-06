@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 43
+* 총 풀이 문제: 44
 
 ---
 
@@ -57,6 +57,7 @@
 * PRG_42889_FailureRate
 * PRG_12921_FindPrimeNum
 * PRG_12977_MakePrimeNum
+* PRG_135808_Fruiterer
 
 ### 🥇 level3
 
