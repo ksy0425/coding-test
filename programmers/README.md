@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 46
+* 총 풀이 문제: 47
 
 ---
 
@@ -59,6 +59,7 @@
 * PRG_12977_MakePrimeNum
 * PRG_135808_Fruiterer
 * PRG_133499_Babbling2
+* PRG_161989_PaintOver
 
 ### 🥇 level3
 
