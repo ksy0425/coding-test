@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 47
+* 총 풀이 문제: 48
 
 ---
 
@@ -60,6 +60,7 @@
 * PRG_135808_Fruiterer
 * PRG_133499_Babbling2
 * PRG_161989_PaintOver
+* PRG_340199_BillFold
 
 ### 🥇 level3
 
