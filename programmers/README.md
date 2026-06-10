@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 48
+* 총 풀이 문제: 49
 
 ---
 
@@ -61,6 +61,7 @@
 * PRG_133499_Babbling2
 * PRG_161989_PaintOver
 * PRG_340199_BillFold
+* PRG_42840_MockExam
 
 ### 🥇 level3
 
