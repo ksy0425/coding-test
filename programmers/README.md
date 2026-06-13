@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 51
+* 총 풀이 문제: 52
 
 ---
 
@@ -64,6 +64,7 @@
 * PRG_42840_MockExam
 * PRG_12901_2016year
 * PRG_136798_WarriorWeapon
+* PRG_1845_Phoneketmon
 
 ### 🥇 level3
 
