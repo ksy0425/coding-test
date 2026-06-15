@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 53
+* 총 풀이 문제: 54
 
 ---
 
@@ -66,6 +66,7 @@
 * PRG_136798_WarriorWeapon
 * PRG_1845_Phoneketmon
 * PRG_17681_SecretMap
+* PRG_176963_MemoriesScore
 
 ### 🥇 level3
 
