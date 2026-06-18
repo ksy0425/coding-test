@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 56
+* 총 풀이 문제: 57
 
 ---
 
@@ -69,6 +69,7 @@
 * PRG_176963_MemoriesScore
 * PRG_159994_CardPack
 * PRG_42748_KthNumber
+* PRG_81301_NumStrWord
 
 ### 🥇 level3
 
