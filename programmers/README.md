@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 57
+* 총 풀이 문제: 58
 
 ---
 
@@ -70,6 +70,7 @@
 * PRG_159994_CardPack
 * PRG_42748_KthNumber
 * PRG_81301_NumStrWord
+* PRG_132267_Coke
 
 ### 🥇 level3
 
