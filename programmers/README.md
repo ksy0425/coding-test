@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 58
+* 총 풀이 문제: 59
 
 ---
 
@@ -71,6 +71,7 @@
 * PRG_42748_KthNumber
 * PRG_81301_NumStrWord
 * PRG_132267_Coke
+* PRG_138477_HallOfFame
 
 ### 🥇 level3
 
