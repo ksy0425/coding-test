@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 61
+* 총 풀이 문제: 62
 
 ---
 
@@ -74,6 +74,7 @@
 * PRG_138477_HallOfFame
 * PRG_12915_CustomStringSorting
 * PRG_12926_CaesarCipher
+* PRG_68644_PickTwoAdd
 
 ### 🥇 level3
 
