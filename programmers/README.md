@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 63
+* 총 풀이 문제: 64
 
 ---
 
@@ -76,6 +76,7 @@
 * PRG_12926_CaesarCipher
 * PRG_68644_PickTwoAdd
 * PRG_134240_FoodFighterCompetition
+* PRG_142086_ClosestSameLetter
 
 ### 🥇 level3
 
