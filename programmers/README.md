@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 64
+* 총 풀이 문제: 65
 
 ---
 
@@ -77,6 +77,7 @@
 * PRG_68644_PickTwoAdd
 * PRG_134240_FoodFighterCompetition
 * PRG_142086_ClosestSameLetter
+* PRG_86491_MinimumRectangle
 
 ### 🥇 level3
 
