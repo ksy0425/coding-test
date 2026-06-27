@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 66
+* 총 풀이 문제: 67
 
 ---
 
@@ -79,6 +79,7 @@
 * PRG_142086_ClosestSameLetter
 * PRG_86491_MinimumRectangle
 * PRG_12930_CreateUnusualText
+* PRG_131128_NumberPartners
 
 ### 🥇 level3
 
