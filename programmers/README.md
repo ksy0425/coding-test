@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 67
+* 총 풀이 문제: 68
 
 ---
 
@@ -80,6 +80,7 @@
 * PRG_86491_MinimumRectangle
 * PRG_12930_CreateUnusualText
 * PRG_131128_NumberPartners
+* PRG_68935_TernarySystem
 
 ### 🥇 level3
 
