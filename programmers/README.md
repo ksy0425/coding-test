@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 68
+* 총 풀이 문제: 69
 
 ---
 
@@ -81,6 +81,7 @@
 * PRG_12930_CreateUnusualText
 * PRG_131128_NumberPartners
 * PRG_68935_TernarySystem
+* PRG_12982_Budget
 
 ### 🥇 level3
 
