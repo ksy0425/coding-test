@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 69
+* 총 풀이 문제: 70
 
 ---
 
@@ -82,6 +82,7 @@
 * PRG_131128_NumberPartners
 * PRG_68935_TernarySystem
 * PRG_12982_Budget
+* PRG_131705_ThreeMusketeers
 
 ### 🥇 level3
 
