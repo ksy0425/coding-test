@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 70
+* 총 풀이 문제: 71
 
 ---
 
@@ -83,6 +83,7 @@
 * PRG_68935_TernarySystem
 * PRG_12982_Budget
 * PRG_131705_ThreeMusketeers
+* PRG_12906_HateSameNumber
 
 ### 🥇 level3
 
