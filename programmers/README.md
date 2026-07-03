@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 71
+* 총 풀이 문제: 72
 
 ---
 
@@ -84,6 +84,7 @@
 * PRG_12982_Budget
 * PRG_131705_ThreeMusketeers
 * PRG_12906_HateSameNumber
+* PRG_12940_GCDAndLCM
 
 ### 🥇 level3
 
