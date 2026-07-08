@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 72
+* 총 풀이 문제: 73
 
 ---
 
@@ -85,6 +85,7 @@
 * PRG_131705_ThreeMusketeers
 * PRG_12906_HateSameNumber
 * PRG_12940_GCDAndLCM
+* PRG_147355_SmallerSubstrings
 
 ### 🥇 level3
 
