@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 73
+* 총 풀이 문제: 74
 
 ---
 
@@ -86,6 +86,7 @@
 * PRG_12906_HateSameNumber
 * PRG_12940_GCDAndLCM
 * PRG_147355_SmallerSubstrings
+* PRG_12969_RectangleStar
 
 ### 🥇 level3
 
