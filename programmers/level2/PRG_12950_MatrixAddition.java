@@ -1,0 +1,19 @@
+/*
+Programmers Level 2
+행렬의 덧셈
+연습 문제
+ */
+
+class Solution {
+    public int[][] solution(int[][] arr1, int[][] arr2) {
+        int[][] answer = new int[arr1.length][arr1[0].length];
+
+        for (int i=0;i<arr1.length;i++) {
+            for (int k=0;k<arr1[i].length;k++) {
+                answer[i][k] = arr1[i][k] + arr2[i][k];
+            }
+        }
+
+        return answer;
+    }
+}

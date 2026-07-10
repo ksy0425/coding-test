@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 74
+* 총 풀이 문제: 75
 
 ---
 
@@ -87,6 +87,7 @@
 * PRG_12940_GCDAndLCM
 * PRG_147355_SmallerSubstrings
 * PRG_12969_RectangleStar
+* PRG_12950_MatrixAddition
 
 ### 🥇 level3
 
