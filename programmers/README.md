@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 76
+* 총 풀이 문제: 77
 
 ---
 
@@ -89,6 +89,7 @@
 * PRG_12969_RectangleStar
 * PRG_12950_MatrixAddition
 * PRG_250121_DataAnalysis
+* PRG_12918_StringHandlingBasics
 
 ### 🥇 level3
 
