@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 77
+* 총 풀이 문제: 78
 
 ---
 
@@ -90,6 +90,7 @@
 * PRG_12950_MatrixAddition
 * PRG_250121_DataAnalysis
 * PRG_12918_StringHandlingBasics
+* PRG_118666_PersonalityTypeTest
 
 ### 🥇 level3
 
