@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 78
+* 총 풀이 문제: 79
 
 ---
 
@@ -91,6 +91,7 @@
 * PRG_250121_DataAnalysis
 * PRG_12918_StringHandlingBasics
 * PRG_118666_PersonalityTypeTest
+* PRG_64061_CraneGame
 
 ### 🥇 level3
 
