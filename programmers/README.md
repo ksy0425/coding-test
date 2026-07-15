@@ -92,6 +92,7 @@
 * PRG_12918_StringHandlingBasics
 * PRG_118666_PersonalityTypeTest
 * PRG_64061_CraneGame
+* PRG_67256_PressKeypad
 
 ### 🥇 level3
 
