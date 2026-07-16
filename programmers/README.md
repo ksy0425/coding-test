@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 79
+* 총 풀이 문제: 80
 
 ---
 
@@ -93,6 +93,7 @@
 * PRG_118666_PersonalityTypeTest
 * PRG_64061_CraneGame
 * PRG_67256_PressKeypad
+* PRG_12917_StringDesc
 
 ### 🥇 level3
 
