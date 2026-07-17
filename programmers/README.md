@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 80
+* 총 풀이 문제: 81
 
 ---
 
@@ -94,6 +94,7 @@
 * PRG_64061_CraneGame
 * PRG_67256_PressKeypad
 * PRG_12917_StringDesc
+* PRG_82612_CalculateShortfall
 
 ### 🥇 level3
 
