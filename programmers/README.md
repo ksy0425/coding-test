@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 81
+* 총 풀이 문제: 82
 
 ---
 
@@ -95,6 +95,7 @@
 * PRG_67256_PressKeypad
 * PRG_12917_StringDesc
 * PRG_82612_CalculateShortfall
+* PRG_12903_ExtractMiddleChar
 
 ### 🥇 level3
 
