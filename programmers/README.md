@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 82
+* 총 풀이 문제: 83
 
 ---
 
@@ -96,6 +96,7 @@
 * PRG_12917_StringDesc
 * PRG_82612_CalculateShortfall
 * PRG_12903_ExtractMiddleChar
+* PRG_12922_WaterMelon
 
 ### 🥇 level3
 
