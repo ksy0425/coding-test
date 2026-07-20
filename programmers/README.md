@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 84
+* 총 풀이 문제: 85
 
 ---
 
@@ -98,6 +98,7 @@
 * PRG_12903_ExtractMiddleChar
 * PRG_12922_WaterMelon
 * PRG_77884_NumberDivisorsAddition
+* PRG_12910_ArrayOfNumbersByDivisor
 
 ### 🥇 level3
 
