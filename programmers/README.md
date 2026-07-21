@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 85
+* 총 풀이 문제: 86
 
 ---
 
@@ -99,6 +99,7 @@
 * PRG_12922_WaterMelon
 * PRG_77884_NumberDivisorsAddition
 * PRG_12910_ArrayOfNumbersByDivisor
+* PRG_161990_DesktopCleanup
 
 ### 🥇 level3
 
