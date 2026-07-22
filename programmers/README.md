@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 86
+* 총 풀이 문제: 87
 
 ---
 
@@ -100,6 +100,7 @@
 * PRG_77884_NumberDivisorsAddition
 * PRG_12910_ArrayOfNumbersByDivisor
 * PRG_161990_DesktopCleanup
+* PRG_72410_NewIdSuggestions
 
 ### 🥇 level3
 
