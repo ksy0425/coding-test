@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 90
+* 총 풀이 문제: 91
 
 ---
 
@@ -104,6 +104,7 @@
 * PRG_12919_LookingFor
 * PRG_12935_RemoveSmallestNumber
 * PRG_12943_CollatzConjecture
+* PRG_12948_PhoneNumberHiding
 
 ### 🥇 level3
 
