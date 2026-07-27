@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 91
+* 총 풀이 문제: 92
 
 ---
 
@@ -105,6 +105,7 @@
 * PRG_12935_RemoveSmallestNumber
 * PRG_12943_CollatzConjecture
 * PRG_12948_PhoneNumberHiding
+* PRG_70128_InnerProduct
 
 ### 🥇 level3
 
