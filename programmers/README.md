@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 93
+* 총 풀이 문제: 94
 
 ---
 
@@ -107,6 +107,7 @@
 * PRG_12948_PhoneNumberHiding
 * PRG_70128_InnerProduct
 * PRG_388351_FlexibleWorkSystem
+* PRG_150370_PersonalRetentionPeriod
 
 ### 🥇 level3
 
