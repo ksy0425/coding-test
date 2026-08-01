@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 96
+* 총 풀이 문제: 97
 
 ---
 
@@ -110,6 +110,7 @@
 * PRG_150370_PersonalRetentionPeriod
 * PRG_178871_RunningRace
 * PRG_172928_WalkThePark
+* PRG_340198_Park
 
 ### 🥇 level3
 
