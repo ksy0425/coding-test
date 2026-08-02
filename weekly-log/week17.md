@@ -6,7 +6,12 @@
 
 ##### 🥈 7문제
 - PRG_70128_InnerProduct
-- 
+- PRG_388351_FlexibleWorkSystem
+- PRG_150370_PersonalRetentionPeriod
+- PRG_178871_RunningRace
+- PRG_172928_WalkThePark
+- PRG_340198_Park
+- PRG_250137_WrappingBandage
 
 ### ❗ 부족한 점
 - PRG_388351_FlexibleWorkSystem 문제에서 주말에 대한 매직 넘버를 상수를 쓰면 가독성을 증가할 수 있음.
@@ -15,4 +20,5 @@
 - PRG_340198_Park 문제에서 4중 반복문을 사용하게 되는데, 반복문의 중첩이 많다고 무조건 비효율적이라는 생각하지 말기. 4중 반복문을 사용하여 푸는게 정답임.
 
 ### 💡 다음 목표
-- 
+- 남은 정답률 낮은 문제들 다 풀면 다음 레벨로 진행.
+- 앞으로 프로그래머스로 SQL도 학습 진행!!
