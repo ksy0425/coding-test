@@ -1,0 +1,19 @@
+
+SELECT YEAR(DIFFERENTIATION_DATE) AS YEAR,
+    MAX(SIZE_OF_COLONY) OVER (PARTITION BY YEAR(DIFFERENTIATION_DATE)) - SIZE_OF_COLONY AS YEAR_DEV,
+    ID
+FROM ECOLI_DATA
+ORDER BY YEAR ASC, YEAR_DEV ASC;
+
+/*
+
+STDDEV() : 표본 표준편차
+VARIANCE() : 분산
+
+SELECT STDDEV(column_name) AS 표준편차,
+       VARIANCE(column_name) AS 분산
+FROM table_name;
+
+※ column_name에 숫자형 데이터가 들어 있어야 함.
+
+*/
