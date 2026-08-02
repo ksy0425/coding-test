@@ -1,0 +1,19 @@
+-- 코드를 작성해주세요
+SELECT DISTINCT D.ID, D.EMAIL, D.FIRST_NAME, D.LAST_NAME
+FROM DEVELOPERS D
+         JOIN SKILLCODES S
+              ON (D.SKILL_CODE & S.CODE) != 0
+WHERE S.NAME IN ('Python', 'C#')
+ORDER BY D.ID ASC;
+
+/*
+
+비트 AND 연산을 통해 스킬을 보유한지 확인.
+보유한 스킬들 중 파이썬, C#을 걸러냄.
+
+SELECT DISTINCT D.ID, D.EMAIL, D.FIRST_NAME, D.LAST_NAME
+FROM DEVELOPERS D, SKILLCODES S
+WHERE (D.SKILL_CODE & S.CODE) != 0 AND S.NAME IN ('Python', 'C#')
+ORDER BY D.ID ASC;
+
+*/
