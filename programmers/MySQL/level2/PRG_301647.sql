@@ -1,0 +1,11 @@
+-- 코드를 작성해주세요
+SELECT E.ID, E.GENOTYPE, P.GENOTYPE
+FROM ECOLI_DATA E
+         JOIN ECOLI_DATA P ON E.PARENT_ID = P.ID
+WHERE (E.GENOTYPE & P.GENOTYPE) = P.GENOTYPE
+ORDER BY E.ID;
+
+/*
+E.GENOTYPE & P.GENOTYPE → 자식이 가진 형질 중 부모와 겹치는 부분
+이것이 P.GENOTYPE과 같다면, 부모의 형질을 모두 포함한 것
+*/
