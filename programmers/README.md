@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 99
+* 총 풀이 문제: 100
 
 ---
 
@@ -113,6 +113,7 @@
 * PRG_340198_Park
 * PRG_250137_WrappingBandage
 * PRG_340213_VideoPlayer
+* PRG_92334_ReceiveReportResult
 
 ### 🥇 level3
 
