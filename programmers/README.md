@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 101
+* 총 풀이 문제: 102
 
 ---
 
@@ -115,6 +115,7 @@
 * PRG_340213_VideoPlayer
 * PRG_92334_ReceiveReportResult
 * PRG_389478_TakeOutDeliveryBox
+* PRG_258712_MostReceivedGift
 
 ### 🥇 level3
 
