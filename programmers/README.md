@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 102
+* 총 풀이 문제: 103
 
 ---
 
@@ -116,6 +116,7 @@
 * PRG_92334_ReceiveReportResult
 * PRG_389478_TakeOutDeliveryBox
 * PRG_258712_MostReceivedGift
+* PRG_468371_YellowTrafficLight
 
 ### 🥇 level3
 
