@@ -4,11 +4,17 @@
 ##### 🥉 0문제
 - 
 
-##### 🥈 4문제
+##### 🥈 6문제
 - PRG_340213_VideoPlayer
 - PRG_92334_ReceiveReportResult
 - PRG_389478_TakeOutDeliveryBox
 - PRG_258712_MostReceivedGift
+- PRG_468371_YellowTrafficLight
+- PRG_468370_WordSpoilerPrevention
+
+##### 🥇 2문제
+- PRG_159993_MazeEscape
+- PRG_152996_SeesawPartner
 
 ### ❗ 부족한 점
 - PRG_340213_VideoPlayer 문제에서 replace로 ":"을 제외하여 시간 계산하다가 코드 복잡성이 엄청 증가함. 초 단위로 통일하여 계산 후 다시 원래 형식 맞춰주기. 또는 시간, 분을 구분하여 계산하는게 맞았음.
@@ -18,4 +24,4 @@
   또한 같은 단어의 등장 횟수가 아니라, 각 단어의 위치와 스포일러 구간이 겹치는지를 기준으로 판단했어야 했다.
 
 ### 💡 다음 목표
-- 
+- SQL 병행하면서도 꾸준히 자바 코테 연습하기.
