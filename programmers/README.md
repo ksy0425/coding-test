@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 106
+* 총 풀이 문제: 107
 
 ---
 
@@ -123,6 +123,7 @@
 
 * PRG_159993_MazeEscape
 * PRG_152996_SeesawPartner
+* PRG_148653_MagicElevator
 
 ---
 
