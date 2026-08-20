@@ -2,7 +2,7 @@
 
 ## 📊 진행 현황
 
-* 총 풀이 문제: 108
+* 총 풀이 문제: 109
 
 ---
 
@@ -125,6 +125,7 @@
 * PRG_152996_SeesawPartner
 * PRG_148653_MagicElevator
 * PRG_86971_DividingPower
+* PRG_42883_MakingLargeNumbers
 * 
 
 ---
